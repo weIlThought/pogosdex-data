@@ -69,15 +69,11 @@ When adding device-specific labels or UI strings:
 
 1. Copy [`lang/en.json`](lang/en.json) to `lang/<code>.json` (ISO 639-1 code preferred).
 2. Translate every value.
-3. Register the new language code in the language selector (`LANG_OPTIONS`) inside [`public/main.js`](public/main.js).
 
 ---
-
-## Validation checklist
-
-- `npm test` (or equivalent) passes.
 - JSON files remain valid (`npm run lint:json` if available).
 - All language files include the new keys.
 - Committed changes include updated documentation if behaviour changed.
 
 Thank you for helping expand PoGoSDex!
+
