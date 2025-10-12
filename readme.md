@@ -73,7 +73,7 @@ When adding device-specific labels or UI strings:
 ---
 - JSON files remain valid (`npm run lint:json` if available).
 - All language files include the new keys.
-- Committed changes include updated documentation if behaviour changed.
 
 Thank you for helping expand PoGoSDex!
+
 
