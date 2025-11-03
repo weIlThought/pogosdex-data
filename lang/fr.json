@@ -22,7 +22,7 @@
   "device_builder_price_placeholder": "Fourchette de prix (optionnel)",
   "device_builder_result_hint": "Copiez l’extrait JSON dans data/devices.json.",
   "device_builder_submit": "Générer le JSON",
-  "device_builder_title": "Préparer une nouvelle entrée d’appareil",
+  "device_builder_title": "Proposer un nouvel appareil",
   "device_builder_upload": "Téléverser",
   "devices_section_heading": "Appareils compatibles",
   "devices_section_intro": "Filtrez le catalogue, consultez les notes et copiez des entrées JSON prêtes à l’emploi pour votre base de données.",

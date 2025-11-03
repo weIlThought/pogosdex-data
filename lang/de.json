@@ -22,7 +22,7 @@
   "device_builder_price_placeholder": "Preisspanne (optional)",
   "device_builder_result_hint": "Füge den JSON-Ausschnitt in data/devices.json ein.",
   "device_builder_submit": "JSON erzeugen",
-  "device_builder_title": "Neuen Geräteeintrag vorbereiten",
+  "device_builder_title": "Neues Gerät vorschlagen",
   "device_builder_upload": "Hochladen",
   "devices_section_heading": "Kompatible Geräte",
   "devices_section_intro": "Filtere den Katalog, lies Notizen und kopiere fertige JSON-Einträge für deine Datenbasis.",
